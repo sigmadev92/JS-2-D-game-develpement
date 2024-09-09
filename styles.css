@@ -1,0 +1,30 @@
+#canvas1{
+    width:300px;
+    height: 300px;
+    border: 3px solid blue;
+    display: inline-block;
+    background-color: white;
+}
+
+div.container{
+    display:flex;
+    width:70%;
+    margin:auto;
+    padding: 30px;
+    background-color: skyblue;
+    border: 3px solid red;
+    border-radius:10px;
+}
+
+button{
+    margin:20px;
+    border: 2px solid green;
+    padding: 5px;
+    color:aqua;
+    background-color: black;
+
+}
+button:hover{
+    background-color: yellowgreen;
+    color:black;
+}
